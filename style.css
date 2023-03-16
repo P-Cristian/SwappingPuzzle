@@ -1,0 +1,20 @@
+.game-board {
+    display: flex;
+    flex-wrap: wrap;
+    width: 444px; 
+    height: 444px;
+    border: 2px solid black;
+  }
+
+  .square {
+    border: 1px solid black;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-color: white; 
+    cursor: pointer; 
+  }
+
+  #title
+  {
+    
+  }
